@@ -8,8 +8,8 @@ Com base nos dados fornecidos, o nosso grupo realizou uma análise inicial e ide
 2. Qual a média do CRA das pessoas que evadiram?
 3. Qual é o gênero dos alunos que mais evadem dos cursos?
 4. Existem diferenças nas taxas de evasão entre cursos na UFV? Se sim, quais cursos têm as maiores taxas de evasão?
-5. Qual é a média do CRA dos alunos que evadiram dos cursos?
-6. Há alguma relação entre a idade dos alunos e a probabilidade de evasão?
+5. Quantas Pessoas Evadiram por estado?
+6. Os alunos com nota mais alta no ENEM têm um CRA mais alto do que os alunos com nota mais baixa no ENEM?
 7. Os alunos que evadiram tinham mais reprovações do que os que não evadiram?
 8. Qual é a distribuição das notas do ENEM entre os alunos que evadiram?
 9. Existe alguma relação entre a modalidade de inscrição dos alunos e a probabilidade de evasão?
