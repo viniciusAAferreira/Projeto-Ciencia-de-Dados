@@ -1,7 +1,7 @@
 # Projeto-Ciencia-de-Dados
 Trabalho Prático – Introdução à Ciência dos Dados
 --------
-## Grupo:
+Grupo:
   ###### João Vitor Gonçalves Vieira - 4212
   ###### Leonardo Araujo Resende Aguiar - 4702
   ###### Vinícius Augusto Assis Ferreira - 4242
